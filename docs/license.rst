@@ -1,7 +1,7 @@
 License
 =======================
 
-Copyright (c) 2020 Shaoheng Liang @ Ken Chen lab. All rights reserved. 
+Copyright (c) 2022 Shaoheng Liang @ Ken Chen lab. All rights reserved. 
 
-Please contact the authors for permission to use. A open-source license may be added later.
+Please contact the authors for permission to use. We plan to add an open-source license later.
 
