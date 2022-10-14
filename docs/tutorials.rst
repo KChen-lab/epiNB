@@ -10,8 +10,7 @@ Welcome to epiNB's documentation!
    :maxdepth: 3
    :caption: Contents:
 
-   modules
-   tutorials
+   single-allele
 
 
 Indices and tables
