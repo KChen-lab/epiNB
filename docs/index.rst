@@ -12,6 +12,9 @@ Welcome to epiNB's documentation!
 
    modules
    tutorials
+   citation
+   license
+   contact
 
 
 Indices and tables
