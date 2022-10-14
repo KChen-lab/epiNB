@@ -1,4 +1,4 @@
-epiNB
+Detailed documentation for epiNB
 =====
 
 .. automodule:: epinb
